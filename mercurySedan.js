@@ -6,6 +6,8 @@ let v = new VehicleModule.Vehicle("Mercury", "Sedan", "1965", "color", "mileage"
 console.log(v.make)
 
 
+
+
 //After you write the derived Car class, you should test it out.
 
 //Note: You can code your derived Car class here or make a file named index.js and do it there.
